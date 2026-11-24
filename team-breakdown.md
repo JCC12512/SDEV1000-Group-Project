@@ -8,7 +8,7 @@ This plan divides the assignment so that every team member owns a complete secti
 
 ---
 
-## Member 1 - Inventory Structure and CRUD Operations
+## Member 1 - Kaylee: Inventory Structure and CRUD Operations
 
 ### Primary responsibility
 
@@ -48,7 +48,7 @@ Complete the Inventory Management Module overview and the product add, update, a
 
 ---
 
-## Member 2 - Inventory Search, Sort, and Algorithm Justification
+## Member 2 - Renson: Inventory Search, Sort, and Algorithm Justification
 
 ### Primary responsibility
 
@@ -90,7 +90,7 @@ Complete the Inventory Module search and sort functionality and explain all requ
 
 ---
 
-## Member 3 - Sales Processing and Statistical Analysis
+## Member 3 - Keysean: Sales Processing and Statistical Analysis
 
 ### Primary responsibility
 
@@ -134,7 +134,7 @@ Complete the Sales Processing Module and Statistical Analysis section.
 
 ---
 
-## Member 4 - Reporting, Optimizations, and Final Assembly
+## Member 4 - Travis: Reporting, Optimizations, and Final Assembly
 
 ### Primary responsibility
 
@@ -199,10 +199,10 @@ Complete the remaining reporting requirements and prepare the submitted document
 
 | Team Member | Primary Content | Supporting Deliverables |
 |---|---|---|
-| Member 1 | Inventory overview and CRUD operations | 3 pseudocode sections, complete inventory flowchart |
-| Member 2 | Inventory search and sort | 6 pseudocode operations, algorithm explanations and complexity |
-| Member 3 | Sales processing | Complete sales flowchart, sales pseudocode, statistical analysis |
-| Member 4 | Reporting and optimizations | Product, correlation, probability, trend findings, final assembly |
+| Member 1 - Kaylee | Inventory overview and CRUD operations | 3 pseudocode sections, complete inventory flowchart |
+| Member 2 - Renson | Inventory search and sort | 6 pseudocode operations, algorithm explanations and complexity |
+| Member 3 - Keysean | Sales processing | Complete sales flowchart, sales pseudocode, statistical analysis |
+| Member 4 - Travis | Reporting and optimizations | Product, correlation, probability, trend findings, final assembly |
 
 The original 36-mark Inventory Module is divided between Members 1 and 2.
 
@@ -229,10 +229,10 @@ The 12-mark presentation is supported by all four members, with Member 4 respons
 - Verify that all ProductIDs, prices, quantities, and discounts are interpreted correctly.
 - Keep a shared checklist so that no required rubric item is missed.
 - Review work with teammates before the final merge:
-  - Member 1 reviews inventory terminology.
-  - Member 2 reviews algorithm correctness.
-  - Member 3 reviews sales discounts and statistics.
-  - Member 4 reviews reporting calculations and final formatting.
+  - Kaylee reviews inventory terminology.
+  - Renson reviews algorithm correctness.
+  - Keysean reviews sales discounts and statistics.
+  - Travis reviews reporting calculations and final formatting.
 
 ---
 
@@ -240,10 +240,10 @@ The 12-mark presentation is supported by all four members, with Member 4 respons
 
 Target a total presentation length of **5–10 minutes**:
 
-1. **Member 1 - Inventory analysis and CRUD:** approximately 90–120 seconds
-2. **Member 2 - Search, sort, and algorithms:** approximately 90–120 seconds
-3. **Member 3 - Sales processing and statistical analysis:** approximately 90–120 seconds
-4. **Member 4 - Product, correlation, probability, trend, and optimization findings:** approximately 120–150 seconds
+1. **Kaylee - Member 1 inventory analysis and CRUD:** approximately 90–120 seconds
+2. **Renson - Member 2 search, sort, and algorithms:** approximately 90–120 seconds
+3. **Keysean - Member 3 sales processing and statistical analysis:** approximately 90–120 seconds
+4. **Travis - Member 4 product, correlation, probability, trend, and optimization findings:** approximately 120–150 seconds
 
 Every member should:
 
